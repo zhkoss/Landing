@@ -1,2 +1,1 @@
-# Landing
-Link: https://zhkoss.github.io/Landing/
+# [Лэндинг](https://zhkoss.github.io/Landing/ "Ссылка")
